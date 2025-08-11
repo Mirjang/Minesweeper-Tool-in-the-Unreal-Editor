@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MineSweeperPlugin",
+	"Description": ".",
+	"Category": "",
+	"CreatedBy": "Patrick Radner",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"Installed": false,
+	"Modules": [
+	{
+		"Name": "MineSweeperPlugin",
+		"Type": "Editor",
+		"LoadingPhase": "Default"
+	}],
+	"Plugins": [
+	]
+}
+
